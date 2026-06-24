@@ -1,4 +1,4 @@
-package ite_3rd_ecommerce.co.stad.project.domain;
+package ite_3rd_ecommerce.co.stad.project.feature.order;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

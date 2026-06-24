@@ -1,7 +1,7 @@
-package ite_3rd_ecommerce.co.stad.project.domain;
+package ite_3rd_ecommerce.co.stad.project.feature.category;
 
+import ite_3rd_ecommerce.co.stad.project.feature.product.Product;
 import jakarta.persistence.*;
-import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

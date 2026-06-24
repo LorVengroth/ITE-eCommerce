@@ -1,4 +1,7 @@
-
+file:
+  client-path: /file
+  storage-location: C:\Users\User\OneDrive\Documents\ITE-fileUpload/
+  base-uri: http://localhost:${server.port}${file.client-path}
 spring:
   jpa:
     hibernate:

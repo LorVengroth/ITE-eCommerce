@@ -1,6 +1,8 @@
-package ite_3rd_ecommerce.co.stad.project.service;
+package ite_3rd_ecommerce.co.stad.project.feature.category.service;
 
-import ite_3rd_ecommerce.co.stad.project.dto.*;
+import ite_3rd_ecommerce.co.stad.project.feature.category.dto.CategoryResponse;
+import ite_3rd_ecommerce.co.stad.project.feature.category.dto.CategorySubAndParentCategoryResponse;
+import ite_3rd_ecommerce.co.stad.project.feature.category.dto.CreateCategoryRequest;
 
 import java.util.List;
 

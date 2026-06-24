@@ -1,8 +1,7 @@
-package ite_3rd_ecommerce.co.stad.project.mapper;
+package ite_3rd_ecommerce.co.stad.project.feature.category;
 
-import ite_3rd_ecommerce.co.stad.project.domain.Category;
-import ite_3rd_ecommerce.co.stad.project.dto.CategoryResponse;
-import ite_3rd_ecommerce.co.stad.project.dto.CategorySubAndParentCategoryResponse;
+import ite_3rd_ecommerce.co.stad.project.feature.category.dto.CategoryResponse;
+import ite_3rd_ecommerce.co.stad.project.feature.category.dto.CategorySubAndParentCategoryResponse;
 import org.mapstruct.BeforeMapping;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

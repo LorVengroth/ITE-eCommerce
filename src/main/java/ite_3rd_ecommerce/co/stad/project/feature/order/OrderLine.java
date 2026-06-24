@@ -1,5 +1,6 @@
-package ite_3rd_ecommerce.co.stad.project.domain;
+package ite_3rd_ecommerce.co.stad.project.feature.order;
 
+import ite_3rd_ecommerce.co.stad.project.feature.product.Product;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

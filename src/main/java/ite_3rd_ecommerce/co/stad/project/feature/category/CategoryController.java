@@ -1,7 +1,9 @@
-package ite_3rd_ecommerce.co.stad.project.controller;
+package ite_3rd_ecommerce.co.stad.project.feature.category;
 
-import ite_3rd_ecommerce.co.stad.project.dto.*;
-import ite_3rd_ecommerce.co.stad.project.service.CategoryService;
+import ite_3rd_ecommerce.co.stad.project.feature.category.dto.CategoryResponse;
+import ite_3rd_ecommerce.co.stad.project.feature.category.dto.CategorySubAndParentCategoryResponse;
+import ite_3rd_ecommerce.co.stad.project.feature.category.dto.CreateCategoryRequest;
+import ite_3rd_ecommerce.co.stad.project.feature.category.service.CategoryService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package ite_3rd_ecommerce.co.stad.project.dto;
+package ite_3rd_ecommerce.co.stad.project.feature.category.dto;
 
 import java.util.List;
 

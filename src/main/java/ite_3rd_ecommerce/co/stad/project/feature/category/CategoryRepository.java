@@ -1,6 +1,5 @@
-package ite_3rd_ecommerce.co.stad.project.repository;
+package ite_3rd_ecommerce.co.stad.project.feature.category;
 
-import ite_3rd_ecommerce.co.stad.project.domain.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

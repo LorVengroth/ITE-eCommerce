@@ -1,11 +1,9 @@
-package ite_3rd_ecommerce.co.stad.project.dto;
+package ite_3rd_ecommerce.co.stad.project.feature.category.dto;
 
 import jakarta.persistence.Column;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 import lombok.Builder;
-import lombok.Getter;
-import lombok.Setter;
 
 @Builder
 public record CreateCategoryRequest(

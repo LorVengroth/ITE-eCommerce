@@ -1,10 +1,11 @@
-package ite_3rd_ecommerce.co.stad.project.service.impl;
+package ite_3rd_ecommerce.co.stad.project.feature.category.service;
 
-import ite_3rd_ecommerce.co.stad.project.domain.Category;
-import ite_3rd_ecommerce.co.stad.project.dto.*;
-import ite_3rd_ecommerce.co.stad.project.mapper.CategoryMapper;
-import ite_3rd_ecommerce.co.stad.project.repository.CategoryRepository;
-import ite_3rd_ecommerce.co.stad.project.service.CategoryService;
+import ite_3rd_ecommerce.co.stad.project.feature.category.Category;
+import ite_3rd_ecommerce.co.stad.project.feature.category.dto.CategoryResponse;
+import ite_3rd_ecommerce.co.stad.project.feature.category.dto.CategorySubAndParentCategoryResponse;
+import ite_3rd_ecommerce.co.stad.project.feature.category.dto.CreateCategoryRequest;
+import ite_3rd_ecommerce.co.stad.project.feature.category.CategoryMapper;
+import ite_3rd_ecommerce.co.stad.project.feature.category.CategoryRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.domain.Page;
