@@ -6,6 +6,7 @@ import lombok.Builder;
 public record FileUploadResponse(
         String name ,
         String caption ,
+        String extension ,
         Long size ,
         String mediaType ,
         String uri
